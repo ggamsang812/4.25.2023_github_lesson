@@ -1,1 +1,17 @@
-1. create folder
+------------------------------------------- Part 1 -------------------------------------------
+0. Install git
+1. Open git bash on the working folder
+2.  git config --global user.email "홍길동@gmail.com"
+    git config --global user.username "홍길동" 
+3. Go to working folder and open terminal
+4.  git init
+5.  git add *name of the files*
+6.  git commit -m "메세지"
+
+Useful commands 
+Adding add the filles in the working folder => git add .
+Watching logs of the commits => git log --all --oneline
+
+
+------------------------------------------- Part 2 -------------------------------------------
+
