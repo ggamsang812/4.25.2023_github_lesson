@@ -13,7 +13,7 @@ Adding add the filles in the working folder => git add .
 Watching logs of the commits => git log --all --oneline
 
 
-------------------------------------------- Part 2---3 -------------------------------------------
+------------------------------------------- Part 2 & 3-------------------------------------------
 1. You can also do git commands on the code editor
 2. To check the difference of the code between the one you're working vs. the last commit => git diff
 3. git diff is not friendly so use => git difftool 
