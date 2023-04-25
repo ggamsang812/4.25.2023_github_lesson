@@ -1,1 +1,4 @@
 part5
+git restore => You can restore the file to where you committed. 
+git restore *file name*
+git restore --source *branch ID* *file name*
