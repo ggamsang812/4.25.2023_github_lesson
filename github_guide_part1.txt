@@ -14,4 +14,9 @@ Watching logs of the commits => git log --all --oneline
 
 
 ------------------------------------------- Part 2 -------------------------------------------
-
+1. You can also do git commands on the code editor
+2. To check the difference of the code between the one you're working vs. the last commit => git diff
+3. git diff is not friendly so use => git difftool 
+4. This will open the vim editor; :qa to exit out of vim
+5. ex) git difftool *version ID* *version ID(this is defaulted to the current version if not specified)*
+6. These editors on terminal are trash... Just install git extensions like Git Graph and use it.
