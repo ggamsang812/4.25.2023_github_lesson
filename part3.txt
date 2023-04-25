@@ -1,1 +1,3 @@
 part 3 
+git branch *branch name*
+git switch *branch name*
