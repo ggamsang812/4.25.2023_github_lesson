@@ -1,3 +1,5 @@
 part 3 
 git branch *branch name*
 git switch *branch name*
+git merge *branch name*
+When there is a conflict => fix the code and git add & commit 
