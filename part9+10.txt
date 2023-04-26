@@ -1,0 +1,16 @@
+Part9
+git flow => When the app needs stability (such as game development or beginning phase of app)
+trunk-based => When you have a stable working app that has been proven + CI/CD 
+
+Part10
+For temporary code, use git stash
+1. git stash => save the change you made from the most recent commit in temp repo and get rid of it from the current branch
+1-1. git stash save 'message' => save the stash with the message/ntoe 
+2. git stash list => view the list of stash
+3. git stash drop *stash number* => to delete specific stash
+4. git stash clear => to clear the list
+5. git stash pop => brings back the most recent saved stash
+
+Use of stash
+**you can comment the lines out, but if you commit the comments will go together**
+**maybe try creating another branch** 
