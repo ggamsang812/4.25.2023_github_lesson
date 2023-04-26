@@ -3,7 +3,7 @@ Part4  ------------------------------------
 2. When there is nothing to merge (there is no new content in master branch and only in the new branch), fast-forward merge gets triggered
 2-1. If you don't like the ff merge, you can force 3-way merge by => git merge --no-ff *branch name*
 3. git branch -d *branch name* => deletes branch after merge
-3-1. Deleing branch without merging them is with => git branch -D *branch name*
+3-1. Deleting branch without merging them is with => git branch -D *branch name*
 4. Use git rebase & merge when there is a branch that is short and simple
 4-1. Downside is rebase get you lots of conflict 
 4-2. *at the new created branch* git rebase *master branch*  => move to master branch => git merge *new branch*
