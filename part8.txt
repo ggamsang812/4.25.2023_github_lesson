@@ -1,0 +1,3 @@
+Part8
+0. When you're working with other people, it's much safer to create and work in other branch
+1. Usually you do a "pull request" in github when working with other people   

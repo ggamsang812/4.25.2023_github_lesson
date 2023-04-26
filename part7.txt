@@ -1,0 +1,12 @@
+Part 7 - Working with others
+1. git clone *repository* => to start
+2. git pull => you put repository address after pull but if you used -u and remembered the address, you don't need to.
+3. git pull = git fetch + git merge
+3-1. git fetch => bring the newest commit from the online repository
+3-2. git merge => merge it with the current branch => This can result in merge conflict as we learned in part3
+3-3. You can pull other branches from online  repository
+4. git push 
+
+5. Sometimes git push won't work. 
+ a) teammate pushed a change before you push
+ b) because there is a change in online repository, you need to pull(merge) first and push your change
