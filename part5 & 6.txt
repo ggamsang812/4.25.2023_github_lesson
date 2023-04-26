@@ -13,3 +13,5 @@ part6
 2. git init
 3. git branch -M main
 3-1. default value for main branch without github is "master" but for github use, you need to rename it to "main"
+4. git remote add origin *address*
+5. git push -u origin main
