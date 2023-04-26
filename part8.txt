@@ -1,6 +1,5 @@
 Part8
 0. When you're working with other people, it's much safer to create and work in other branch
-
+1. Usually you do a "pull request" in github when working with other people   
 2. You can't just push the change from your own branch.
 3. specify the branch with a change you want to push
-
