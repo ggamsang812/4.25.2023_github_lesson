@@ -1,0 +1,15 @@
+part5
+git restore => You can restore the file to where you committed. 
+git restore *file name*
+git restore --source *branch ID* *file name*
+
+git revert => reverting commit 
+
+hard reset of git => git reset --hard *branch ID*
+*This is almost forbidden when I'm working with someone else* 
+
+part6
+1. Make new repository in github.com
+2. git init
+3. git branch -M main
+3-1. default value for main branch without github is "master" but for github use, you need to rename it to "main"
